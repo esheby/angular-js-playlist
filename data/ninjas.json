@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Yoshi",
+        "belt": "Green",
+        "rate": 50,
+        "available": true,
+        "thumb": "http://placehold.it/50x50/666666/ffffff"
+    },
+    {
+        "name": "Ryu",
+        "belt": "yellow",
+        "rate": 30,
+        "available": true,
+        "thumb": "http://placehold.it/50x50/666666/ffffff"
+    },
+    {
+        "name": "Narto",
+        "belt": "orange",
+        "rate": 10,
+        "available": false,
+        "thumb": "http://placehold.it/50x50/666666/ffffff"
+    },
+    {
+        "name": "Saskeh",
+        "belt": "black",
+        "rate": 100,
+        "available": true,
+        "thumb": "http://placehold.it/50x50/666666/ffffff"
+    }
+]
